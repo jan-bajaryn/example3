@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d80a4d2f-8ccb-4cf4-8490-da18c13b5284" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1feoDVJdvFCmIA4XUANw5Oh53K0" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/external" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.itransition.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.itransition.service.exception" />
+      <recent name="by.itransition.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\itransition\names\external" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.PersonGeneratorTest.rus">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.itransition.controller.Main" />
+      <module name="names" />
+      <option name="PROGRAM_PARAMETERS" value="en_US 1000000 0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itransition.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonGeneratorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="names" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itransition.service.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itransition.service" />
+      <option name="MAIN_CLASS_NAME" value="by.itransition.service.PersonGeneratorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonGeneratorTest.bel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="names" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itransition.service.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itransition.service" />
+      <option name="MAIN_CLASS_NAME" value="by.itransition.service.PersonGeneratorTest" />
+      <option name="METHOD_NAME" value="bel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonGeneratorTest.english" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="names" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itransition.service.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itransition.service" />
+      <option name="MAIN_CLASS_NAME" value="by.itransition.service.PersonGeneratorTest" />
+      <option name="METHOD_NAME" value="english" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonGeneratorTest.rus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="names" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itransition.service.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itransition.service" />
+      <option name="MAIN_CLASS_NAME" value="by.itransition.service.PersonGeneratorTest" />
+      <option name="METHOD_NAME" value="rus" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="TestNG.PersonGeneratorTest" />
+      <item itemvalue="TestNG.PersonGeneratorTest.bel" />
+      <item itemvalue="TestNG.PersonGeneratorTest.english" />
+      <item itemvalue="TestNG.PersonGeneratorTest.rus" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PersonGeneratorTest.rus" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.PersonGeneratorTest.english" />
+        <item itemvalue="TestNG.PersonGeneratorTest.bel" />
+        <item itemvalue="TestNG.PersonGeneratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d80a4d2f-8ccb-4cf4-8490-da18c13b5284" name="Default Changelist" comment="" />
+      <created>1596587799118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596587799118</updated>
+      <workItem from="1596587803216" duration="931000" />
+      <workItem from="1596589919460" duration="4000" />
+      <workItem from="1596629100097" duration="5361000" />
+      <workItem from="1596635238446" duration="816000" />
+      <workItem from="1596632467867" duration="11977000" />
+      <workItem from="1596659203095" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596655988856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596655988856" />
+    <state x="538" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596634908024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596634908024" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1596641292455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596641292455" />
+    <state x="579" y="170" key="FileChooserDialogImpl" timestamp="1596634418345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596634418345" />
+    <state width="1493" height="263" key="GridCell.Tab.0.bottom" timestamp="1596659816222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="263" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596659816222" />
+    <state width="1493" height="263" key="GridCell.Tab.0.center" timestamp="1596659816222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="263" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596659816222" />
+    <state width="1493" height="263" key="GridCell.Tab.0.left" timestamp="1596659816222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="263" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596659816222" />
+    <state width="1493" height="263" key="GridCell.Tab.0.right" timestamp="1596659816222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="263" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596659816222" />
+    <state x="279" y="0" key="SettingsEditor" timestamp="1596632503408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596632503408" />
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596630312751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1596630312751" />
+    <state x="499" y="175" key="extract.method.dialog" timestamp="1596637026842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="175" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1596637026842" />
+    <state x="470" y="168" width="596" height="488" key="find.popup" timestamp="1596638000567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="168" width="596" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596638000567" />
+    <state x="218" y="117" key="new project wizard" timestamp="1596635555549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596635555549" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1596659816253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596659816253" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596640171017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596640171017" />
+  </component>
+</project>

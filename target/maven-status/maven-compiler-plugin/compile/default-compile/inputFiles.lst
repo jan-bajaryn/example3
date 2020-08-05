@@ -1,0 +1,12 @@
+D:\Programming\itransition\names\src\main\java\by\itransition\service\exception\WrongCountException.java
+D:\Programming\itransition\names\src\main\java\by\itransition\entity\Person.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\exception\UnsupportedCountException.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\exception\UnsupportedLocaleException.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\exception\IllegalPercentException.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\MistakesGenerator.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\ParamParser.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\exception\WrongMistakesCountException.java
+D:\Programming\itransition\names\src\main\java\by\itransition\controller\Main.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\PersonGenerator.java
+D:\Programming\itransition\names\src\main\java\by\itransition\service\RandomService.java
+D:\Programming\itransition\names\src\main\java\by\itransition\entity\SupportedLocales.java

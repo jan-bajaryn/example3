@@ -1,0 +1,13 @@
+by\itransition\entity\Person.class
+by\itransition\service\PersonGenerator.class
+by\itransition\controller\Main.class
+by\itransition\entity\SupportedLocales.class
+by\itransition\service\exception\IllegalPercentException.class
+by\itransition\service\MistakesGenerator.class
+by\itransition\service\exception\UnsupportedCountException.class
+by\itransition\service\exception\WrongCountException.class
+by\itransition\service\RandomService.class
+by\itransition\service\exception\WrongMistakesCountException.class
+by\itransition\entity\Person$PersonBuilder.class
+by\itransition\service\ParamParser.class
+by\itransition\service\exception\UnsupportedLocaleException.class

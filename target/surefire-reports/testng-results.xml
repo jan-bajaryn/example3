@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-05T23:37:03 MSK" name="by.itransition.service.PersonGeneratorTest" finished-at="2020-08-05T23:37:04 MSK" duration-ms="1164">
+    <groups>
+    </groups>
+    <test started-at="2020-08-05T23:37:03 MSK" name="Command line test" finished-at="2020-08-05T23:37:04 MSK" duration-ms="1164">
+      <class name="by.itransition.service.PersonGeneratorTest">
+        <test-method signature="bel()[pri:0, instance:by.itransition.service.PersonGeneratorTest@6ef888f6]" started-at="2020-08-05T23:37:03 MSK" name="bel" finished-at="2020-08-05T23:37:03 MSK" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bel -->
+        <test-method signature="english()[pri:0, instance:by.itransition.service.PersonGeneratorTest@6ef888f6]" started-at="2020-08-05T23:37:03 MSK" name="english" finished-at="2020-08-05T23:37:04 MSK" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- english -->
+        <test-method signature="rus()[pri:0, instance:by.itransition.service.PersonGeneratorTest@6ef888f6]" started-at="2020-08-05T23:37:04 MSK" name="rus" finished-at="2020-08-05T23:37:04 MSK" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rus -->
+      </class> <!-- by.itransition.service.PersonGeneratorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- by.itransition.service.PersonGeneratorTest -->
+</testng-results>
