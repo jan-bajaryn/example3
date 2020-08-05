@@ -12,7 +12,6 @@ public class MistakesGenerator {
         if (Double.compare(probability, 0) == 0) {
             return;
         }
-        System.out.println("generate");
         int whole = (int) probability;
         int part = (int) (probability * 100 - whole * 100);
 

@@ -13,29 +13,19 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws WrongCountException, UnsupportedLocaleException, UnsupportedCountException, WrongMistakesCountException {
         MistakesGenerator mistakesGenerator = new MistakesGenerator();
         PersonGenerator personGenerator = new PersonGenerator();
         ParamParser paramParser = new ParamParser();
 
-        try {
-            List<Person> people = personGenerator.generate(args[0], paramParser.parseCount(args[1]));
+        List<Person> people = personGenerator.generate(args[0], paramParser.parseCount(args[1]));
 
-            List<String> collect = people.stream()
-                    .map(Person::toPrint)
-                    .collect(Collectors.toList());
+        List<String> collect = people.stream()
+                .map(Person::toPrint)
+                .collect(Collectors.toList());
 
-            mistakesGenerator.generateMistakes(collect, paramParser.parseMistakes(args.length == 2 ? "0" : args[2]));
+        mistakesGenerator.generateMistakes(collect, paramParser.parseMistakes(args.length == 2 ? "0" : args[2]));
 
-            collect.forEach(System.out::println);
-        } catch (WrongCountException e) {
-            System.out.println("Count is wrong");
-        } catch (WrongMistakesCountException e) {
-            System.out.println("Wrong count of mistakes");
-        } catch (UnsupportedLocaleException e) {
-            System.out.println("Unsupported locale");
-        } catch (UnsupportedCountException e) {
-            System.out.println("Count can't be less than 0");
-        }
+        collect.forEach(System.out::println);
     }
 }

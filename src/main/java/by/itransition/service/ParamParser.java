@@ -9,7 +9,7 @@ public class ParamParser {
             return Integer.parseInt(param);
 
         } catch (NumberFormatException e) {
-            throw new WrongCountException();
+            throw new WrongCountException("Count is wrong");
         }
     }
 
@@ -17,7 +17,7 @@ public class ParamParser {
         try {
             return Double.parseDouble(param);
         }catch (NumberFormatException e){
-            throw new WrongMistakesCountException();
+            throw new WrongMistakesCountException("Wrong count of mistakes");
         }
     }
 }

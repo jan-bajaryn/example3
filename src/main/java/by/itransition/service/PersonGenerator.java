@@ -22,8 +22,8 @@ public class PersonGenerator {
             // [0] - name, [1] - surname, [2] - patronymic
             String[] nameWithMiddle = faker.name().nameWithMiddle().split("\\s");
             Address addr = faker.address();
-            String address = addr + ", " + addr.fullAddress();
-            String phone = faker.phoneNumber().phoneNumber();
+            String address = addr.zipCode() + ", " + addr.fullAddress();
+            String phone = faker.phoneNumber().cellPhone();
             people.add(buildPerson(nameWithMiddle, phone, address));
         }
         return people;
@@ -41,10 +41,10 @@ public class PersonGenerator {
 
     private void check(int count, Locale of) throws UnsupportedLocaleException, UnsupportedCountException {
         if (of == null) {
-            throw new UnsupportedLocaleException();
+            throw new UnsupportedLocaleException("Unsupported locale");
         }
         if (count < 0) {
-            throw new UnsupportedCountException();
+            throw new UnsupportedCountException("Count can't be less than 0");
         }
     }
 }
