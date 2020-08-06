@@ -44,7 +44,7 @@ public class PersonGenerator {
             throw new UnsupportedLocaleException("Unsupported locale");
         }
         if (count < 0) {
-            throw new UnsupportedCountException("Count can't be less than 0");
+            throw new UnsupportedCountException();
         }
     }
 }

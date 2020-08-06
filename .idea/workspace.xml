@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d80a4d2f-8ccb-4cf4-8490-da18c13b5284" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/controller/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/MistakesGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/MistakesGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/ParamParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/ParamParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/PersonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/PersonGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/IllegalPercentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/IllegalPercentException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/UnsupportedCountException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/UnsupportedCountException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/UnsupportedLocaleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/UnsupportedLocaleException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/WrongCountException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/WrongCountException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/WrongMistakesCountException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/itransition/service/exception/WrongMistakesCountException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/controller/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/controller/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/MistakesGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/MistakesGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/ParamParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/ParamParser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/PersonGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/PersonGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/IllegalPercentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/IllegalPercentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/UnsupportedCountException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/UnsupportedCountException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/UnsupportedLocaleException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/UnsupportedLocaleException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/WrongCountException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/WrongCountException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/WrongMistakesCountException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/itransition/service/exception/WrongMistakesCountException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/names-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/names-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/names-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/names-1.0-SNAPSHOT.jar" afterDir="false" />
@@ -218,7 +218,8 @@
       <workItem from="1596629100097" duration="5361000" />
       <workItem from="1596635238446" duration="816000" />
       <workItem from="1596632467867" duration="11977000" />
-      <workItem from="1596659203095" duration="3273000" />
+      <workItem from="1596659203095" duration="4159000" />
+      <workItem from="1596705743818" duration="1067000" />
     </task>
     <servers />
   </component>
@@ -242,22 +243,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596634418345" />
-    <state width="1493" height="263" key="GridCell.Tab.0.bottom" timestamp="1596661190839">
+    <state width="1493" height="263" key="GridCell.Tab.0.bottom" timestamp="1596665662023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="263" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596661190839" />
-    <state width="1493" height="263" key="GridCell.Tab.0.center" timestamp="1596661190839">
+    <state width="1493" height="263" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596665662023" />
+    <state width="1493" height="263" key="GridCell.Tab.0.center" timestamp="1596665662022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="263" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596661190839" />
-    <state width="1493" height="263" key="GridCell.Tab.0.left" timestamp="1596661190839">
+    <state width="1493" height="263" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596665662022" />
+    <state width="1493" height="263" key="GridCell.Tab.0.left" timestamp="1596665662022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="263" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596661190839" />
-    <state width="1493" height="263" key="GridCell.Tab.0.right" timestamp="1596661190839">
+    <state width="1493" height="263" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596665662022" />
+    <state width="1493" height="263" key="GridCell.Tab.0.right" timestamp="1596665662022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="263" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596661190839" />
+    <state width="1493" height="263" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596665662022" />
     <state x="279" y="0" key="SettingsEditor" timestamp="1596661319351">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -286,10 +287,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="218" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596635555549" />
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1596661190860">
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1596664828304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596661190860" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596664828304" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596640171017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
