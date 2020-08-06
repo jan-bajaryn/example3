@@ -21,9 +21,8 @@ public class PersonGenerator {
         for (int i = 0; i < count; i++) {
             // [0] - name, [1] - surname, [2] - patronymic
             String[] nameWithMiddle = faker.name().nameWithMiddle().split("\\s");
-            Address addr = faker.address();
-            String address = addr.zipCode() + ", " + addr.fullAddress();
-            String phone = faker.phoneNumber().cellPhone();
+            String address = faker.address().fullAddress();
+            String phone = faker.phoneNumber().phoneNumber();
             people.add(buildPerson(nameWithMiddle, phone, address));
         }
         return people;

@@ -48,6 +48,7 @@ public class PersonGeneratorTest {
         System.out.println(faker.address().streetSuffix());
         System.out.println(faker.address().latitude());
         System.out.println(faker.address().zipCode());
+        System.out.println("faker.phoneNumber().phoneNumber() = " + faker.phoneNumber().phoneNumber());
     }
 
     @Test

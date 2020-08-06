@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-06T12:54:57 MSK" name="by.itransition.service.PersonGeneratorTest" finished-at="2020-08-06T12:54:58 MSK" duration-ms="1215">
+  <suite started-at="2020-08-06T16:01:19 MSK" name="by.itransition.service.PersonGeneratorTest" finished-at="2020-08-06T16:01:20 MSK" duration-ms="1244">
     <groups>
     </groups>
-    <test started-at="2020-08-06T12:54:57 MSK" name="Command line test" finished-at="2020-08-06T12:54:58 MSK" duration-ms="1215">
+    <test started-at="2020-08-06T16:01:19 MSK" name="Command line test" finished-at="2020-08-06T16:01:20 MSK" duration-ms="1244">
       <class name="by.itransition.service.PersonGeneratorTest">
-        <test-method signature="bel()[pri:0, instance:by.itransition.service.PersonGeneratorTest@6ef888f6]" started-at="2020-08-06T12:54:57 MSK" name="bel" finished-at="2020-08-06T12:54:57 MSK" duration-ms="187" status="PASS">
+        <test-method signature="bel()[pri:0, instance:by.itransition.service.PersonGeneratorTest@3e92efc3]" started-at="2020-08-06T16:01:19 MSK" name="bel" finished-at="2020-08-06T16:01:19 MSK" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bel -->
-        <test-method signature="english()[pri:0, instance:by.itransition.service.PersonGeneratorTest@6ef888f6]" started-at="2020-08-06T12:54:57 MSK" name="english" finished-at="2020-08-06T12:54:58 MSK" duration-ms="932" status="PASS">
+        <test-method signature="english()[pri:0, instance:by.itransition.service.PersonGeneratorTest@3e92efc3]" started-at="2020-08-06T16:01:19 MSK" name="english" finished-at="2020-08-06T16:01:20 MSK" duration-ms="1044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- english -->
-        <test-method signature="rus()[pri:0, instance:by.itransition.service.PersonGeneratorTest@6ef888f6]" started-at="2020-08-06T12:54:58 MSK" name="rus" finished-at="2020-08-06T12:54:58 MSK" duration-ms="59" status="PASS">
+        <test-method signature="rus()[pri:0, instance:by.itransition.service.PersonGeneratorTest@3e92efc3]" started-at="2020-08-06T16:01:20 MSK" name="rus" finished-at="2020-08-06T16:01:20 MSK" duration-ms="30" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rus -->
